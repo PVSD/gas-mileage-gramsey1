@@ -10,7 +10,7 @@ public class Main {
 
         myBmw.takeTrip(100);
 
-        double fuel_left = myBmw.reportFuel( );
+        double fuel_left = myBmw.reportFuel();
 
         System.out.println(fuel_left); //prints gallons left,
     }
